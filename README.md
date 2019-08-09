@@ -2,8 +2,7 @@
 Program that outputs a certain user-specified number of randomly generated passwords until the user is satisfied.
 
 # What I Learned
-Basics of the Random class in Python:
-  Implementation of the random.choice() and random.randrange() methods.
+Implementation of the random.choice() and random.randrange() methods.
 
 Basic String Methods:
   Implementation of the str.rstrip() and str.lower() methods.
